@@ -15,9 +15,9 @@ Roteirizar o processo de implementação e configuração da VM com o serviço d
 | DESCRIÇÃO  |  IP  |
 | ------------------- | ------------------- |
 | REDE |  10.9.14.107 |
-|  MÁSCARA |  Célula de conteúdo |
-| VIRTUALBOX |  Célula de conteúdo |
-|  BROADCAST |  Célula de conteúdo |
+|  MÁSCARA |  255.255.255.0 |
+| VIRTUALBOX | 10.9.14.1 |
+|  BROADCAST |  10.9.14.255 |
 |  NS1 |  Célula de conteúdo |
 | SAMBA |  Célula de conteúdo |
 
