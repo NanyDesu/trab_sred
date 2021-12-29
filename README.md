@@ -41,3 +41,13 @@ Roteirizar o processo de implementação e configuração da VM com o serviço d
 | GATEWAY | gw.elaine_914.laberedes.ifalarapiraca.local |
 |  NAMESERVER1 |  ns1.elaine_914.laberedes.ifalarapiraca.local |
 | VIRTUALBOX |  samba.elaine_914.laberedes.ifalarapiraca.local |
+
+
+# Links 
+
+## Configurações iniciais:
+[interface e gateway](https://github.com/NanyDesu/trab_sred/tree/main/Initial)
+## Configuração Samba:
+[Samba](https://github.com/NanyDesu/trab_sred/tree/main/SAMBA)
+## Configuração DNS:
+[DNS](https://github.com/NanyDesu/trab_sred/tree/main/DNS)
