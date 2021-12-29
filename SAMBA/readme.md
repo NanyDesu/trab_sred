@@ -111,4 +111,6 @@ sudo chgrp sambashare /samba/public
 
 (através do explorador de arquivos podemos verificar se está funcionando através do ip)
 
+- Próximo passo:
+
 [Configuração DNS](https://github.com/NanyDesu/trab_sred/tree/main/DNS)
