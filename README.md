@@ -8,7 +8,7 @@ BRUNNO MARTINS SANTOS - 914
 
 # Objetivos:
 
-Roteirizar o processo de implementação e configuração da VM com o serviço de commpartilhamento de arquivo (SAMBA) e o servidor de resolução de DNS.
+Roteirizar o processo de implementação e configuração da VM com o serviço de compartilhamento de arquivo (SAMBA) e o servidor de resolução de DNS.
 
 # TabelaS de configuração da Rede
 
