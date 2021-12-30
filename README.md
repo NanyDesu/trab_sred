@@ -10,7 +10,7 @@ BRUNNO MARTINS SANTOS - 914
 
 Roteirizar o processo de implementação e configuração da VM com o serviço de compartilhamento de arquivo (SAMBA) e o servidor de resolução de DNS.
 
-# TabelaS de configuração da Rede
+# Tabelas de configuração da Rede
 
 - Definições de rede interna
 
